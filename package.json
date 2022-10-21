@@ -1,0 +1,12 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitacao de ponta a ponta em cypress",
+  "main": "index.js",
+  "author": "vinicius emidio",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "9.7.0",
+    "pg": "^8.8.0"
+  }
+}
